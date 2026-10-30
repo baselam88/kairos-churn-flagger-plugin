@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Flags at-risk customers from behaviour changes (usage drop, late payment, complaint tone) 2-4 weeks before they leave (labelled estimate).",
+  "keywords": [
+    "churn",
+    "flagger",
+    "kairos",
+    "small business"
+  ],
+  "license": "MIT",
+  "name": "kairos-churn-flagger",
+  "repository": "https://github.com/baselam88/kairos-churn-flagger-plugin",
+  "version": "0.1.0"
+}
